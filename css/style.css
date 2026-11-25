@@ -1,0 +1,14 @@
+body
+{
+    margin:0;
+   
+}
+h1
+{
+    text-align:center;
+    padding:10px;
+    border:5px solid rgb(0, 140, 145);
+    width: 800px;
+    border-radius: 10px;
+    margin:auto;
+}
