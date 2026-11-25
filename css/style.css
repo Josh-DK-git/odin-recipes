@@ -15,3 +15,23 @@ li
 {
     margin-top:10px;
 }
+.mUl
+{
+    border-left:3px orange solid;
+}
+.mOl
+{
+    border-left:3px orange solid;
+}
+.mOl li
+{
+    font-weight: 500;
+}
+.mUl
+{
+    font-weight:500;
+}
+img
+{
+    border-radius:1px;
+}
